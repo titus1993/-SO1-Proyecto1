@@ -1,0 +1,1 @@
+cmd_/home/titus/Escritorio/modulos/cpu_201213587/cpu_201213587.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/titus/Escritorio/modulos/cpu_201213587/cpu_201213587.ko /home/titus/Escritorio/modulos/cpu_201213587/cpu_201213587.o /home/titus/Escritorio/modulos/cpu_201213587/cpu_201213587.mod.o ;  true
